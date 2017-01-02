@@ -12,7 +12,8 @@ In this repository you can find our cleanup and code formatter settings for our 
 
 Of course you can provide code that isn't formatted regarding this guidelines but
 the possibility is high that we might ignore/reject your pull request without digging
-deep into your code ;-)
+deep into your code.
 
 ## License
-If not stated otherwise could released on GitHub will be Apache 2.0
+
+If not stated otherwise code released on GitHub will be Apache 2.0
